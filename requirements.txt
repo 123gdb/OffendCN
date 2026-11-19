@@ -1,0 +1,12 @@
+# 实验环境（Windows + CUDA 已验证）
+# 安装顺序不影响使用，但运行脚本时必须先 import torch 再 import transformers，见 README。
+torch==2.1.0
+transformers==4.37.2
+datasets
+scikit-learn
+pandas
+numpy
+sentencepiece
+requests
+tqdm
+openpyxl

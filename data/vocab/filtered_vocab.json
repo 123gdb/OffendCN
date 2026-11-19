@@ -1,0 +1,1620 @@
+{
+  "矮穷矬": {
+    "ids": [
+      4765,
+      4956
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "ai qiong cuo"
+  },
+  "八婆": {
+    "ids": [
+      1061,
+      2038
+    ],
+    "type": "Gender",
+    "dialect": "粤语",
+    "pinyin": "ba po"
+  },
+  "败家娘们": {
+    "ids": [
+      6571,
+      2157,
+      2023,
+      812
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "bai jia niang men"
+  },
+  "碧池": {
+    "ids": [
+      4819,
+      3737
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "bi chi"
+  },
+  "婊": {
+    "ids": [
+      2040
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "biao"
+  },
+  "婊子": {
+    "ids": [
+      2040,
+      2094
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "biao zi"
+  },
+  "婊砸": {
+    "ids": [
+      2040,
+      4790
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "biao za"
+  },
+  "长舌妇": {
+    "ids": [
+      7270,
+      5649,
+      1967
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "chang she fu"
+  },
+  "丑女": {
+    "ids": [
+      682,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "chou nv"
+  },
+  "癫婆": {
+    "ids": [
+      4626,
+      2038
+    ],
+    "type": "Gender",
+    "dialect": "粤语",
+    "pinyin": "dian po"
+  },
+  "easygirl": {
+    "ids": [
+      9935,
+      10006,
+      9923
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "easygirl"
+  },
+  "恶婆娘": {
+    "ids": [
+      2626,
+      2038,
+      2023
+    ],
+    "type": "Gender",
+    "dialect": "西南官话",
+    "pinyin": "e po niang"
+  },
+  "凤凰男": {
+    "ids": [
+      1128,
+      1133,
+      4511
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "feng huang nan"
+  },
+  "腐癌": {
+    "ids": [
+      5576,
+      4617
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "fu ai"
+  },
+  "硅南": {
+    "ids": [
+      4795,
+      1298
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "gui nan"
+  },
+  "龟楠": {
+    "ids": [
+      7991,
+      3507
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "gui nan"
+  },
+  "龟男": {
+    "ids": [
+      7991,
+      4511
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "gui nan"
+  },
+  "国男": {
+    "ids": [
+      1744,
+      4511
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "guo nan"
+  },
+  "蝈腩": {
+    "ids": [
+      6067,
+      5583
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "guo nan"
+  },
+  "郭楠": {
+    "ids": [
+      6958,
+      3507
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "guo nan"
+  },
+  "郭女": {
+    "ids": [
+      6958,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "guo nv"
+  },
+  "狐媚子": {
+    "ids": [
+      4316,
+      2055,
+      2094
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "hu mei zi"
+  },
+  "妓女": {
+    "ids": [
+      1972,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "ji nv"
+  },
+  "集美": {
+    "ids": [
+      7415,
+      5401
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "ji mei"
+  },
+  "开苞": {
+    "ids": [
+      2458,
+      5731
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "kai bao"
+  },
+  "恐龙": {
+    "ids": [
+      2607,
+      7987
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "kong long"
+  },
+  "烂货": {
+    "ids": [
+      4162,
+      6573
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "lan huo"
+  },
+  "烂裤裆": {
+    "ids": [
+      4162,
+      6175,
+      6164
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "lan ku dang"
+  },
+  "老毕登": {
+    "ids": [
+      5439,
+      3684,
+      4633
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "lao bi deng"
+  },
+  "老逼登": {
+    "ids": [
+      5439,
+      6873,
+      4633
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "lao bi deng"
+  },
+  "老闭灯": {
+    "ids": [
+      5439,
+      7308,
+      4128
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "lao bi deng"
+  },
+  "老娘们儿": {
+    "ids": [
+      5439,
+      2023,
+      812,
+      1036
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "lao niang men er"
+  },
+  "老妖婆": {
+    "ids": [
+      5439,
+      1973,
+      2038
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "lao yao po"
+  },
+  "捞女": {
+    "ids": [
+      2937,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "lao nv"
+  },
+  "绿茶婊": {
+    "ids": [
+      5344,
+      5763,
+      2040
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "lv cha biao"
+  },
+  "绿帽": {
+    "ids": [
+      5344,
+      2384
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "lv mao"
+  },
+  "姆搐": {
+    "ids": [
+      1990,
+      3012
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu chu"
+  },
+  "母畜": {
+    "ids": [
+      3678,
+      4523
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu chu"
+  },
+  "亩勾": {
+    "ids": [
+      774,
+      1256
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "亩狗": {
+    "ids": [
+      774,
+      4318
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "墓垢": {
+    "ids": [
+      1867,
+      1803
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "幕勾": {
+    "ids": [
+      2391,
+      1256
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "慕勾": {
+    "ids": [
+      2710,
+      1256
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "木勾": {
+    "ids": [
+      3312,
+      1256
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "沐勾": {
+    "ids": [
+      3759,
+      1256
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu gou"
+  },
+  "姆蛆": {
+    "ids": [
+      1990,
+      6025
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu qu"
+  },
+  "母拳": {
+    "ids": [
+      3678,
+      2891
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu quan"
+  },
+  "亩人": {
+    "ids": [
+      774,
+      782
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu ren"
+  },
+  "亩刃": {
+    "ids": [
+      774,
+      1145
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu ren"
+  },
+  "慕人": {
+    "ids": [
+      2710,
+      782
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu ren"
+  },
+  "钼刃": {
+    "ids": [
+      7184,
+      1145
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu ren"
+  },
+  "姆坦": {
+    "ids": [
+      1990,
+      1788
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu tan"
+  },
+  "母坦": {
+    "ids": [
+      3678,
+      1788
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "mu tan"
+  },
+  "男淫": {
+    "ids": [
+      4511,
+      3915
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "nan yin"
+  },
+  "脑残女": {
+    "ids": [
+      5554,
+      3655,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "nao can nv"
+  },
+  "娘们": {
+    "ids": [
+      2023,
+      812
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "niang men"
+  },
+  "娘们唧唧": {
+    "ids": [
+      2023,
+      812,
+      1543,
+      1543
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "niang men ji ji"
+  },
+  "娘们儿": {
+    "ids": [
+      2023,
+      812,
+      1036
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "niang men er"
+  },
+  "娘炮": {
+    "ids": [
+      2023,
+      4152
+    ],
+    "type": "LGBTQ",
+    "dialect": "北方官话",
+    "pinyin": "niang pao"
+  },
+  "女犬": {
+    "ids": [
+      1957,
+      4305
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "nv quan"
+  },
+  "女醛": {
+    "ids": [
+      1957,
+      7010
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "nv quan"
+  },
+  "pussy": {
+    "ids": [
+      11227,
+      8565,
+      8179
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "pussy"
+  },
+  "批婆娘": {
+    "ids": [
+      2821,
+      2038,
+      2023
+    ],
+    "type": "Gender",
+    "dialect": "西南官话",
+    "pinyin": "pi po niang"
+  },
+  "普信男": {
+    "ids": [
+      3249,
+      928,
+      4511
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "pu xin nan"
+  },
+  "普信女": {
+    "ids": [
+      3249,
+      928,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "pu xin nv"
+  },
+  "拳师": {
+    "ids": [
+      2891,
+      2360
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "quan shi"
+  },
+  "拳虱": {
+    "ids": [
+      2891,
+      6003
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "quan shi"
+  },
+  "肉便器": {
+    "ids": [
+      5489,
+      912,
+      1690
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "rou bian qi"
+  },
+  "软饭男": {
+    "ids": [
+      6763,
+      7649,
+      4511
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "ruan fan nan"
+  },
+  "骚货": {
+    "ids": [
+      7746,
+      6573
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "sao huo"
+  },
+  "傻": {
+    "ids": [
+      1004
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "sha"
+  },
+  "圣母婊": {
+    "ids": [
+      1760,
+      3678,
+      2040
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "sheng mu biao"
+  },
+  "死娘们儿": {
+    "ids": [
+      3647,
+      2023,
+      812,
+      1036
+    ],
+    "type": "Gender",
+    "dialect": "北方官话",
+    "pinyin": "si niang men er"
+  },
+  "碎嘴婆": {
+    "ids": [
+      4810,
+      1673,
+      2038
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "sui zui po"
+  },
+  "田园女拳": {
+    "ids": [
+      4506,
+      1736,
+      1957,
+      2891
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "tian yuan nv quan"
+  },
+  "无孩爱猫女": {
+    "ids": [
+      3187,
+      2111,
+      4263,
+      4344,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "wu hai ai mao nv"
+  },
+  "小吊子": {
+    "ids": [
+      2207,
+      1396,
+      2094
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "xiao diao zi"
+  },
+  "小浪蹄子": {
+    "ids": [
+      2207,
+      3857,
+      6686,
+      2094
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "xiao lang ti zi"
+  },
+  "小藓女": {
+    "ids": [
+      2207,
+      5968,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "xiao xian nv"
+  },
+  "厌女": {
+    "ids": [
+      1328,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "yan nv"
+  },
+  "窑姐": {
+    "ids": [
+      4965,
+      1995
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "yao jie"
+  },
+  "妖婆": {
+    "ids": [
+      1973,
+      2038
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "yao po"
+  },
+  "妖里妖气": {
+    "ids": [
+      1973,
+      7027,
+      1973,
+      3698
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "yao li yao qi"
+  },
+  "站街女": {
+    "ids": [
+      4991,
+      6125,
+      1957
+    ],
+    "type": "Gender",
+    "dialect": "mandarin",
+    "pinyin": "zhan jie nv"
+  },
+  "百越": {
+    "ids": [
+      4636,
+      6632
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "bai yue"
+  },
+  "北佬": {
+    "ids": [
+      1266,
+      878
+    ],
+    "type": "Region",
+    "dialect": "粤语",
+    "pinyin": "bei lao"
+  },
+  "北莽": {
+    "ids": [
+      1266,
+      5818
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "bei mang"
+  },
+  "川老鼠": {
+    "ids": [
+      2335,
+      5439,
+      7962
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "chuan lao shu"
+  },
+  "臭外地的": {
+    "ids": [
+      5634,
+      1912,
+      1765,
+      4638
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "chou wai di de"
+  },
+  "凑外地的": {
+    "ids": [
+      1122,
+      1912,
+      1765,
+      4638
+    ],
+    "type": "Region",
+    "dialect": "其他",
+    "pinyin": "cou wai di de"
+  },
+  "东北佬": {
+    "ids": [
+      691,
+      1266,
+      878
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "dong bei lao"
+  },
+  "福建猪": {
+    "ids": [
+      4886,
+      2456,
+      4343
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "fu jian zhu"
+  },
+  "刚博宁": {
+    "ids": [
+      1157,
+      1300,
+      2123
+    ],
+    "type": "Region",
+    "dialect": "吴语",
+    "pinyin": "gang bo ning"
+  },
+  "港灿": {
+    "ids": [
+      3949,
+      4136
+    ],
+    "type": "Region",
+    "dialect": "粤语",
+    "pinyin": "gang can"
+  },
+  "河南担": {
+    "ids": [
+      3777,
+      1298,
+      2857
+    ],
+    "type": "Region",
+    "dialect": "北方官话",
+    "pinyin": "he nan dan"
+  },
+  "河南佬": {
+    "ids": [
+      3777,
+      1298,
+      878
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "he nan lao"
+  },
+  "沪爷": {
+    "ids": [
+      3772,
+      4267
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "hu ye"
+  },
+  "江东鼠辈": {
+    "ids": [
+      3736,
+      691,
+      7962,
+      6777
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "jiang dong shu bei"
+  },
+  "江西年子": {
+    "ids": [
+      3736,
+      6205,
+      2399,
+      2094
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "jiang xi nian zi"
+  },
+  "京爷": {
+    "ids": [
+      776,
+      4267
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "jing ye"
+  },
+  "京油子": {
+    "ids": [
+      776,
+      3779,
+      2094
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "jing you zi"
+  },
+  "拉猴儿": {
+    "ids": [
+      2861,
+      4347,
+      1036
+    ],
+    "type": "Region",
+    "dialect": "北方官话",
+    "pinyin": "la hou er"
+  },
+  "捞佬": {
+    "ids": [
+      2937,
+      878
+    ],
+    "type": "Region",
+    "dialect": "粤语",
+    "pinyin": "lao lao"
+  },
+  "老倒子": {
+    "ids": [
+      5439,
+      948,
+      2094
+    ],
+    "type": "Region",
+    "dialect": "北方官话",
+    "pinyin": "lao dao zi"
+  },
+  "老帽": {
+    "ids": [
+      5439,
+      2384
+    ],
+    "type": "Region",
+    "dialect": "北方官话",
+    "pinyin": "lao mao"
+  },
+  "老坦": {
+    "ids": [
+      5439,
+      1788
+    ],
+    "type": "Region",
+    "dialect": "北方官话",
+    "pinyin": "lao tan"
+  },
+  "老坦儿": {
+    "ids": [
+      5439,
+      1788,
+      1036
+    ],
+    "type": "Region",
+    "dialect": "北方官话",
+    "pinyin": "lao tan er"
+  },
+  "南大人": {
+    "ids": [
+      1298,
+      1920,
+      782
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "nan da ren"
+  },
+  "山东毛驴": {
+    "ids": [
+      2255,
+      691,
+      3688,
+      7723
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "shan dong mao lv"
+  },
+  "蛙蛙": {
+    "ids": [
+      6032,
+      6032
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "wa wa"
+  },
+  "外地逼": {
+    "ids": [
+      1912,
+      1765,
+      6873
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "wai di bi"
+  },
+  "王德彪": {
+    "ids": [
+      4374,
+      2548,
+      2507
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "wang de biao"
+  },
+  "我是刘路啊": {
+    "ids": [
+      2769,
+      3221,
+      1155,
+      6662,
+      1557
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "wo shi liu lu a"
+  },
+  "乡窝宁": {
+    "ids": [
+      740,
+      4973,
+      2123
+    ],
+    "type": "Region",
+    "dialect": "吴语",
+    "pinyin": "xiang wo ning"
+  },
+  "乡下人": {
+    "ids": [
+      740,
+      678,
+      782
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "xiang xia ren"
+  },
+  "一枪不开": {
+    "ids": [
+      671,
+      3366,
+      679,
+      2458
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "yi qiang bu kai"
+  },
+  "桌饺人": {
+    "ids": [
+      3430,
+      7659,
+      782
+    ],
+    "type": "Region",
+    "dialect": "mandarin",
+    "pinyin": "zhuo jiao ren"
+  },
+  "白楠": {
+    "ids": [
+      4635,
+      3507
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bai nan"
+  },
+  "白皮": {
+    "ids": [
+      4635,
+      4649
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bai pi"
+  },
+  "白皮猪": {
+    "ids": [
+      4635,
+      4649,
+      4343
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bai pi zhu"
+  },
+  "百越猴": {
+    "ids": [
+      4636,
+      6632,
+      4347
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bai yue hou"
+  },
+  "棒女": {
+    "ids": [
+      3472,
+      1957
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bang nv"
+  },
+  "棒子": {
+    "ids": [
+      3472,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bang zi"
+  },
+  "北棒": {
+    "ids": [
+      1266,
+      3472
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bei bang"
+  },
+  "鞭子": {
+    "ids": [
+      7498,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "bian zi"
+  },
+  "彩虹马": {
+    "ids": [
+      2506,
+      6004,
+      7716
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "cai hong ma"
+  },
+  "二鬼子": {
+    "ids": [
+      753,
+      7787,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "er gui zi"
+  },
+  "番仔": {
+    "ids": [
+      4528,
+      798
+    ],
+    "type": "Race",
+    "dialect": "闽语",
+    "pinyin": "fan zai"
+  },
+  "菲猴": {
+    "ids": [
+      5838,
+      4347
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "fei hou"
+  },
+  "鬼佬": {
+    "ids": [
+      7787,
+      878
+    ],
+    "type": "Race",
+    "dialect": "粤语",
+    "pinyin": "gui lao"
+  },
+  "黑逼": {
+    "ids": [
+      7946,
+      6873
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "hei bi"
+  },
+  "黑鬼": {
+    "ids": [
+      7946,
+      7787
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "hei gui"
+  },
+  "黑黑": {
+    "ids": [
+      7946,
+      7946
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "hei hei"
+  },
+  "黑叔叔": {
+    "ids": [
+      7946,
+      1356,
+      1356
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "hei shu shu"
+  },
+  "昆仑奴": {
+    "ids": [
+      3204,
+      796,
+      1958
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "kun lun nu"
+  },
+  "罗罗": {
+    "ids": [
+      5384,
+      5384
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "luo luo"
+  },
+  "螨虫": {
+    "ids": [
+      6087,
+      6001
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "man chong"
+  },
+  "棉花": {
+    "ids": [
+      3469,
+      5709
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "mian hua"
+  },
+  "南棒": {
+    "ids": [
+      1298,
+      3472
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "nan bang"
+  },
+  "倪哥": {
+    "ids": [
+      960,
+      1520
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "ni ge"
+  },
+  "泥哥": {
+    "ids": [
+      3799,
+      1520
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "ni ge"
+  },
+  "人猿": {
+    "ids": [
+      782,
+      4351
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "ren yuan"
+  },
+  "日本鬼子": {
+    "ids": [
+      3189,
+      3315,
+      7787,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "ri ben gui zi"
+  },
+  "三哥": {
+    "ids": [
+      676,
+      1520
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "san ge"
+  },
+  "上线送一百抽": {
+    "ids": [
+      677,
+      5296,
+      6843,
+      671,
+      4636,
+      2853
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "shang xian song yi bai chou"
+  },
+  "泰国猴子": {
+    "ids": [
+      3805,
+      1744,
+      4347,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "tai guo hou zi"
+  },
+  "泰猴": {
+    "ids": [
+      3805,
+      4347
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "tai hou"
+  },
+  "歪果": {
+    "ids": [
+      3639,
+      3362
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "wai guo"
+  },
+  "歪果仁": {
+    "ids": [
+      3639,
+      3362,
+      785
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "wai guo ren"
+  },
+  "倭": {
+    "ids": [
+      963
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "wo"
+  },
+  "倭寇": {
+    "ids": [
+      963,
+      2167
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "wo kou"
+  },
+  "倭奴": {
+    "ids": [
+      963,
+      1958
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "wo nu"
+  },
+  "小日本": {
+    "ids": [
+      2207,
+      3189,
+      3315
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "xiao ri ben"
+  },
+  "小日子": {
+    "ids": [
+      2207,
+      3189,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "xiao ri zi"
+  },
+  "洋大人": {
+    "ids": [
+      3817,
+      1920,
+      782
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "yang da ren"
+  },
+  "洋垃圾": {
+    "ids": [
+      3817,
+      1796,
+      1769
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "yang la ji"
+  },
+  "印尼猴子": {
+    "ids": [
+      1313,
+      2225,
+      4347,
+      2094
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "yin ni hou zi"
+  },
+  "藏蛮人": {
+    "ids": [
+      5966,
+      6037,
+      782
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "cang man ren"
+  },
+  "中国佬": {
+    "ids": [
+      704,
+      1744,
+      878
+    ],
+    "type": "Race",
+    "dialect": "mandarin",
+    "pinyin": "zhong guo lao"
+  },
+  "不男不女": {
+    "ids": [
+      679,
+      4511,
+      679,
+      1957
+    ],
+    "type": "LGBTQ",
+    "dialect": "北方官话",
+    "pinyin": "bu nan bu nv"
+  },
+  "二椅子": {
+    "ids": [
+      753,
+      3488,
+      2094
+    ],
+    "type": "LGBTQ",
+    "dialect": "北方官话",
+    "pinyin": "er yi zi"
+  },
+  "Faggot": {
+    "ids": [
+      12289,
+      9949,
+      8783
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "Faggot"
+  },
+  "gay里gay气": {
+    "ids": [
+      12211,
+      7027,
+      12211,
+      3698
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "gay li gay qi"
+  },
+  "恋童": {
+    "ids": [
+      2605,
+      4997
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "lian tong"
+  },
+  "乸型": {
+    "ids": [
+      1798
+    ],
+    "type": "LGBTQ",
+    "dialect": "粤语",
+    "pinyin": "na xing"
+  },
+  "南通": {
+    "ids": [
+      1298,
+      6858
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "nan tong"
+  },
+  "人妖": {
+    "ids": [
+      782,
+      1973
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "ren yao"
+  },
+  "骚0": {
+    "ids": [
+      7746,
+      121
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "sao 0"
+  },
+  "顺直": {
+    "ids": [
+      7556,
+      4684
+    ],
+    "type": "LGBTQ",
+    "dialect": "mandarin",
+    "pinyin": "shun zhi"
+  }
+}
